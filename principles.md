@@ -88,9 +88,87 @@ The temporary cartilaginous (eg. Meckel's) guide development and then mostly go 
 
 ### Medical Embryology + Teratology
 
-### Math
+*malformations*: abnormalities caused by genetic events
+*syndromes*: many abnormalities running together
+
+### piebaldism as case study
+
+Mutated KIT underexpressed in:
+
+- neural crest cells - pigment, ear cells, gut neurons: underpigmentation, deafness, gut malformation
+- blood: anemia
+- germ: sterility
+
+### thalidomide
+
+*teratogens*: Exogenous agents that cause abnormalities ("monster formers")
+- Comes from latin root that means "demonstrate" / point out issue
+
+Lenz and McBride demonstrated in 1961 that thalidomide caused limb defromities,
+heart defects, absence of ears, etc.
+
+The window of susceptibility overlaps when actual organ is developing
+
+- only during 34-50 post menstruation
+- pharyngeal arch (30-34) form
+- upper limb buds (36-40) form
+- lower limb buds (42-46) form
+
+This is where you get ear, upper + lower limb deformations respectively.
+
+### Math of Growth
+
+Not much here.
+
+- As volume doubles, length increases 1.27.
+- Difference between allometric and isometric growth
+
+- Understand the fixed 
+- isometric growth
+- allometric growth
 
 ## Life Cycles and Evolution
+
+### Frog Development
+
+https://www.youtube.com/watch?v=DfZ0b2M5Yaw
+https://www.youtube.com/watch?app=desktop&v=OPTmFxtivHI
+https://www.youtube.com/watch?v=VyNcgNlmcnU
+
+- *Gastrulation*
+
+- animal and vegetal pole
+- blastocoel 
+- blastopore
+- archenteron
+- dorsal lip
+- ventral lip
+- bottle cells
+
+#### Important Movements
+
+- Invagination (folding inward)
+- Involution (spreading within inside)
+- Epiboly (spreading around outside)
+
+### Evolution in Unicellular Protists
+
+*Role of nucleus + transcriptional regulation*
+
+Acetabularia: 2-4 cm long *single cell* organism:
+- Early demonstrations that nucleus contains organism instructions 
+- The instructions are transported elsewhere and there is a delay before they
+turn into structure
+
+*Sexual reproduction*
+
+Conjugation:
+
+- Cytoplasmic bridge forms between oral apparatus
+- 8 micronuclei form (two meiotic + one mitotic divisions)
+- 7 degrade, 1 splits into migratory and stationary
+- Halves migrate over, combine and divide mitotitcally
+- Guys disengage
 
 ## Experimental Embryology
 
