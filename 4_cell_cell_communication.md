@@ -50,11 +50,89 @@ on one side never fully spreading.
 
 ## The Extracellular Matrix as Source of Developmental Signals
 
+ECM: collagen, proteoglycan, specialized glycoprotein (fibronectin, laminin)
+
+Proteoglycan: long chain
+Glycoprotein: short chain
+
+### Proteoglycan
+
+Key functional component: Glycoaminoglycan (GAG) polysaccharide:
+
+- charge sequesters proteins
+- osmotic swelling pressure (bind ions, water floods)
+- mechanical tethers and load distributers
+- organizes morphogens
+
+"Sugar code":
+
+- chain length
+- domain
+- N-Sulfation vs. N-acetylation composition
+- epimerization (modifying stereocenter)
+- how long the NS streches are (eg. NS islands)
+
+### Fibronectin
+
+Large dimer glycoprotein (460 kDa)
+Pave the roads of cell migration
+"Lead germ cells to the gonads and heart cells to embryo midline"
+
+### Basal Lamina
+
+Laminin (another glyco) -> basal lamina; epithelial
+Collagen IV -> reticular lamina; mesenchyme
+
+### But how do cells bind the glycoproteins?
+
+*Integrins* connect ECM (like fibronectin) to internal structures (actin
+cytoskeleton).
+
+[RGD AA motif] <-> BOTH talin + \alpha actin (bind to actin filaments)
+dual binding allows contraction of the actin to move against fixed ECM
+
 ## Epithelial-Mesenchymal Transition
+
+- cadherins (cell) and integrins (basal lamina) break
+- release enzymes to break down basal lamina
+- actin cytoskeleton rearrangement
+- secretion of new mesenchyme ECM factors (?)
 
 ## Cell Signaling
 
+Big idea of dev bio: cell identity is defined by context.
+
+*inducer*: tissue (or cells) that produces signals
+*responder*: tissue (or cells) being induced
+*competence*: ability to receive and respond to inductive signals
+
+### Building Vertebrate Eye
+
+- Brain bulges out and induces head ectoderm
+- Specification actually much earlier than this differentiation event
+
+You want Otx2, Pax6, Sox2, L-Maf:
+
+1/ First gut endoderm "enrualizes" ectoderm: Otx2
+2/ Then mesoderm: Pax6
+3/ FGF8 + BMP4 from brain bulge: L-Maf + Sox3
+
 ## Paracrine Factors
+
+Small toolkit of these factors, many of which morphogens, induce most organs.
+
+*morphogen*: concentration gradients induce effects
+
+### Fibroblast Growth Factor (FGF)
+
+#### RTK
+
+1/ FGF + 2 HSPG bind and cause homodimerization + autophosphorylation
+2/ Adapter protein Sos recognizes and recruits GEF
+3/ GEF activates Ras G Protein: Ras + GDP => Ras + GTP
+4/ Ras activates Raf
+5/ Raf phosphorylates series of MEK kinases
+6/ Eventually ERK makes its way into the nucleus and phosphorylates TF
 
 ## Cell Biology of Paracrine Signaling
 
