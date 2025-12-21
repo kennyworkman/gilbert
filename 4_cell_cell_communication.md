@@ -125,14 +125,38 @@ Small toolkit of these factors, many of which morphogens, induce most organs.
 
 ### Fibroblast Growth Factor (FGF)
 
+- Broad developmental themes of factor
+- 'Shape' of constituent pathways
+
+Broadly delay differentiation (developmental brake) and promote proliferation.
+But also promotes *patterning* (distinct from differentiation) mostly in the
+concentration of end ERK.
+
 #### RTK
 
-1/ FGF + 2 HSPG bind and cause homodimerization + autophosphorylation
-2/ Adapter protein Sos recognizes and recruits GEF
-3/ GEF activates Ras G Protein: Ras + GDP => Ras + GTP
-4/ Ras activates Raf
-5/ Raf phosphorylates series of MEK kinases
+Far more 'graded' response + slower. Encodes more temporal + spatial
+information in response.
+
+1/ RTKs dimerize and phosphorylate each other
+2/ Adapter protein recognizes stuck receptors and recruits SOS a type of GEF (Guanine Exchange Factor)
+3/ GEF removes GDP from Ras and allows GTP to swap in
+4/ Ras-GTP acivates the Raf -> MEK -> ERK cascade (MAPKKK, MAPKK, MAPK)
 6/ Eventually ERK makes its way into the nucleus and phosphorylates TF
+
+The complexity, eg. three layers of MAP kinases (Raf -> MEK -> ERK) allow
+broader set of signals.
+
+#### JAK/STAT
+
+Far more 'thresholded' + quick. Closer to digital signal.
+
+1/ JAK bound to receptor dimerize + phosphorylate each other
+2/ JAK phosphorylate their receptors
+3/ STAT dock here + get phosphorylated
+4/ STAT dimerize + regulate transcription directly
+
+Generally negative feedback (output suppresses its own activity with inhibitor
+or similar)
 
 ## Cell Biology of Paracrine Signaling
 
