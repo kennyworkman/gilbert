@@ -129,6 +129,12 @@ Not much here.
 
 ## Life Cycles and Evolution
 
+### Stages of Animal Development
+
+fertilization -> cleavage -> gastrulation -> 
+
+sperm + egg -> zygote -> blastula -> gastrula -> organs -> organism
+
 ### Frog Development
 
 https://www.youtube.com/watch?v=DfZ0b2M5Yaw
@@ -170,6 +176,134 @@ Conjugation:
 - Halves migrate over, combine and divide mitotitcally
 - Guys disengage
 
+### Multicellularity: Evolution of Differentiation
+
+#### Volvovaceaens
+
+Volvocaceae
+
+1/ ordered division of cells
+2/ differentiation into types of cells
+
+#### Dictyostelium
+
+A social amoeba (*myxamoeba*), though sometimes called "cellular slime mold".
+
+Lifecycle
+
+Cell adhesion
+
+Differentiation:
+- Broadly regulated by diffusable molecules
+- cAMP propogation - circular pulses + cells migrating at different speed - inward spiral
+- DIF -> prestalk + cAMP -> prespore
+
+#### Sex + Individuality in Volvox
+
+Volvox simplest organism to exhibit division of labor between sex and body cell
+types.
+
+
+- *inversion* movement resembles gastrulation of animal embryo
+- juvenille Volvox release from hole and swim
+- remaining somatic cells commit suicide
+
+Sexual reproduction as a tool to survive weather cycles (pond drying up)
+
+#### Antibodies in Dev Bio
+
+Correlative. How do we know glycoproteins are involved in adhesion? Antibodies stick right
+after division.
+Loss-of-function. Isolated Fabs actually stop the binding. Not causal: does not
+identify mechanism
+Gain-of-function.
+
+#### Developmental Patterns in Metazoans
+
+- dipoblasts
+- protosomes
+- deuterostomes
+
+Facts about sponges:
+
+- Can reproduce by passing single cells through a sieve
+- 
+- Have no true mesoderm so lack organs
+
+
+- Porifera (sponge)
+
+*Diploblasts* - characterized by endoderm and ecotoderm but no true mesoderm:
+
+- Cnidaria (jellyfish)
+- Ctenophora (comb jellies)
+
+- Cnidaria + Ctenophora characterized by radial symmetry: *Radiata*
+
+- Protostomes or deuterostomes have bilateral symmetry: *Bilatera*
+- Descended from some primitive flatworm, first to have true mesoderm
+
+- Protostome means mouth first and deuterostome means mouth second
+- Branches of protostomes: ecdysozoa + lophotrocozoa.
+- *Branch* Ecdysozoa - animals that molt (_ecdysis_) - including *Arhtropoda* (phylum):
+arachnids, insects, mites, millipedes, crustaceans
+- *Branch* Lophotrocozoa - annelids, molluscs, flatworms
+- Intuitively, continuous vs staggered growth patterns
+
+*coelum* (body cavity) formation
+- protosome forms mesoderm from hollowing out single cavity: schizocoelous (literally "splitting" of mesoderm)
+- deuterostome from pockets extending from gut: enterocoelous
+
+four sacs:
+- yolk: nutrients
+- amniote: fluid
+- allantois: waste products of metabolism accumulate
+- chorion: outer layer, interacts with environment
+
 ## Experimental Embryology
 
+### Environment on Embryo Dev
+
+UVB
+
+MAAs mycosporine-like amino acids
+- convert UV light into heat energy + dissipated
+- Without: absorbed direclty by nucleotides or biomolecules that become ROS
+- effect on amphibians?
+
+### Internal Embryo Dev Programs
+
+_commitment_ (no phenotypic change) -> _differentiation_ (phenotypic change)
+
+commitment has two stages:
+- specification (continues even when placed in neutral environment)
+- determination (continues even when placed in another embryo region)
+
+#### Important differentiated cell types
+
+- *Keritinocyte* (epidermal Keratin): protect against abrasion, dessication; produces Keratin
+- *Erythrocyte* (red blood): oxygen transport
+- *Lens cell*: produces crystallin, transmits light
+- *Melanocyte*: pigment production
+- *Islet cells*: insuling; carbohydrage metabolism regulation
+- *Leydig cell*: produce testosterone in males
+- *Chondrocyte*: tendons and ligaments; produce cartilage and collagen
+- *Osteoblast*: skeletal support; bone matrix
+- *Myocyte*: actin + myosin; muscle contraction
+- *Hepatocyte*: serum albumin, enzymes
+- *Neuron*: transmit electrical impulses; produce neurotransmitters
+- *Hen*:
+
+#### Modes of Commitment
+
+Can define two "properties" of a blastomere:
+*potency*: cell types possible
+*fate*: cell types will form unaltered
+
+
+- Conditional
+
+
 ## Genes and Development
+
+
